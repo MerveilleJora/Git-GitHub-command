@@ -1,0 +1,32 @@
+***Heberger gratuitement son site sur github***
+
+
+
+**Cet hébergement ne marche pas pour les sites de niveau 3(avec base de donnée)**
+*Etape 1*
+Créer un nouveau dépôt(repository) en le nommant de cette façon.
+"Nomdudépôt.github.io"
+Veiller à choisir un nom spécifique pour le dépôt car celui-ci sera le lien du site.
+
+*Etape 2*
+Enregistrer le dépôt.
+
+*Etape 3*
+commiter tous les fichiers  et dossiers du site web. Depuis Bash ou directement sur github.
+
+*Etape 4*
+Attendre 1 à 5 minutes que les fichiers chargent dans le serveur Github et regarder le site en tapant le lien dans la barre de recherche.
+exemple: https://Nomdudépôt.github.io/
+
+*Important*
+Le lien dans la barre de recherche doit commencer par https:// pour utiliser ce protocole.
+
+*Erreurs possibles* 
+- Pour le lien, éviter de copier coller le lien du dépôt contenant votre pseudo utilisateur dans le lien, celui -ci emmène vers le dépôt directement. 
+exemple: https://github.com/MerveilleJora/Nom-du-depot.github.io/
+- En recherchant son site la première fois, on peut trop vite tomber sur une erreur 404 not found, il suffit d'attendre et de recharger. Ou alors, un error 404
+avec un mot de github spécifiant que votre dépôt ne possède pas le fichier "index.html", il faut donc retourner dans le dépôt et veiller à ce que son fichier.html principal
+(ou accueil du site) soit renommé pareillement.
+
+
+
