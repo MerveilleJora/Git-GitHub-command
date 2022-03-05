@@ -6,7 +6,7 @@ ls - regarder le répertoire
 cd - aller dans un dossier 
 cd .. - remonter d'un dossier 
 mkdir  "nomdudossier" - créer un nouveau dossier
-code . - ouvrir son éditeur de code
+code . - ouvrir le dépôt sur un éditeur de code
 
 touch fichier.extension - créer un fichier
 git rm "nom du fichier.ext ou dépôt" - supprimer un fichier
