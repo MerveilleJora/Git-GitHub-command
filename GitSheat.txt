@@ -1,0 +1,7 @@
+pwd - savoir où je suis 
+ls - regarder le répertoire 
+cd - aller dans un dossier 
+cd .. - remonter d'un dossier 
+
+git init - initier un dépôt local 
+git 
