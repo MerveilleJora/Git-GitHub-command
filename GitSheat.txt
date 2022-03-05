@@ -1,7 +1,33 @@
+*commande directory*
 pwd - savoir où je suis 
 ls - regarder le répertoire 
 cd - aller dans un dossier 
 cd .. - remonter d'un dossier 
 
-git init - initier un dépôt local 
-git 
+*Configurations*
+git config --global user.name "name" - configurer le nom utilisateur
+git config --global user/email "mail" - configurer le mail utilisateur
+git config --global --list - afficher les paramètres précédents
+
+*commande commit*
+**Dépôt local**
+git init - initier un dépôt local
+git add . ajouter les fichiers en index
+git add "fichier" ajouter le fichier souhaité en index
+git commit -m "titre du commit" - commiter les fichiers en index 
+
+
+
+**Dépôt distant**
+git clone "lien github" - cloner le dépot distant en local
+git push -u origin main - pousser les commits sur le dépôts distants
+
+**Autres**
+git log -afficher les commit 
+git log -n(number) - afficher les (number) derniers commits
+git show - "sha -1" - afficher le contenu du commit 
+git checkout main - revenir à la version précédente
+git checkout - "sha - 1" - revenir à la version du commit souhaité 
+git status - état du fichier 
+
+
