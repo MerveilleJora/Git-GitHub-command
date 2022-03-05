@@ -3,7 +3,8 @@ pwd - savoir où je suis
 ls - regarder le répertoire 
 cd - aller dans un dossier 
 cd .. - remonter d'un dossier 
-
+touch fichier.extension - créer un fichier
+git rm "nom du fichier.ext ou dépôt"
 *Configurations*
 git config --global user.name "name" - configurer le nom utilisateur
 git config --global user/email "mail" - configurer le mail utilisateur
